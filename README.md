@@ -10,7 +10,7 @@ Strong technical proficiency with work history in Flutter framework and other la
 * 🖥️  See my portfolio at [Google Play store](http://https://play.google.com/store/apps/dev?id=8432020958886864336)
 * ✉️  You can contact me at [harshilpatel33h@gmail.com](mailto:harshilpatel33h@gmail.com)
 * 🚀  I'm currently working on [Uni Fit - Home Workout & Diet](http://https://play.google.com/store/apps/details?id=com.unionsoftwareit.uni_fit)
-* 🧠  I'm learning React.
+* 🧠  I'm learning React native.
 
 ### Skills
 
