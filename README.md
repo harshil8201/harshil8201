@@ -1,16 +1,11 @@
-Hi 👋 there.
-========================
+# Application Developer
 
-Application Developer
----------------------
+Strong in design and integration with intuitive problem-solving skills. Proficient in FLUTTER, REACT NATIVE, PYTHON, HTML, JAVASCRIPT, FIREBASE, and REST API calls. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
 
-Strong technical proficiency with work history in Flutter framework and other languages. In-depth knowledge of Application development coupled with Flutter and Firebase abilities.
-
-* 🌍  I'm based in India.
-* 🖥️  See my portfolio at [Google Play store](http://https://play.google.com/store/apps/dev?id=8432020958886864336)
-* ✉️  You can contact me at [harshilpatel33h@gmail.com](mailto:harshilpatel33h@gmail.com)
-* 🚀  I'm currently working on [Uni Fit - Home Workout & Diet](http://https://play.google.com/store/apps/details?id=com.unionsoftwareit.uni_fit)
-* 🧠  I'm learning React native.
+* I'm based in India.
+* See my portfolio at [Google Play store](http://https://play.google.com/store/apps/dev?id=8432020958886864336)
+* You can contact me at [harshilpatel33h@gmail.com](mailto:harshilpatel33h@gmail.com)
+* I'm currently working on [Uni Fit - Home Workout & Diet](http://https://play.google.com/store/apps/details?id=com.unionsoftwareit.uni_fit)
 
 ### Skills
 
@@ -29,7 +24,7 @@ Strong technical proficiency with work history in Flutter framework and other la
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Harshil-Patel-8201" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/harshil_8201/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/harshil-patel-312186210" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://https://play.google.com/store/apps/dev?id=8432020958886864336" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16240063/harshil-patel?tab=profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Harshil-Patel-8201" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/harshil_8201/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/harshil-patel-312186210" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 
 ### Badges
 
