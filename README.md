@@ -1,4 +1,4 @@
-# Application Developer
+# Software Developer
 
 Strong in design and integration with intuitive problem-solving skills. Proficient in FLUTTER, REACT NATIVE, PYTHON, HTML, JAVASCRIPT, FIREBASE, and REST API calls. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
 
