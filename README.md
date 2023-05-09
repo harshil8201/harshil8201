@@ -1,6 +1,6 @@
 # Software Developer
 
-Strong in design and integration with intuitive problem-solving skills. Proficient in FLUTTER, REACT NATIVE, PYTHON, HTML, JAVASCRIPT, FIREBASE, and REST API calls. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
+Strong in design and integration with intuitive problem-solving skills. Proficient in React.js, Node.js, MySql, MongoDB, FLUTTER, REACT NATIVE, PYTHON, HTML, JAVASCRIPT, FIREBASE, and REST API calls. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
 
 * I'm based in India.
 * See my portfolio at [Google Play store](http://https://play.google.com/store/apps/dev?id=8432020958886864336)
