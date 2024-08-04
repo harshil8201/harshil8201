@@ -41,5 +41,7 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
 <div width="100%" align="center"><a href="https://github.com/Harshil-Patel-8201/uni_fit" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harshil-Patel-8201&repo=uni_fit&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Harshil-Patel-8201/tic_tac_toe_game" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harshil-Patel-8201&repo=tic_tac_toe_game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
+<img src="https://github.com/user-attachments/assets/138e0670-f07e-4845-9975-32bffbf812d6" width="17%" height="17%" alt="Harshil-Patel-8201's GitHub stats">
 
-<a href="https://www.buymeacoffee.com/harshilp"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
