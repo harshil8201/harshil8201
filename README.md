@@ -43,7 +43,7 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
   <a href="https://github.com/Harshil-Patel-8201/30-Days-with-React.js" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harshil-Patel-8201&repo=30-Days-with-React.js&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   
   <a href="https://github.com/Harshil-Patel-8201/uni_fit" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Harshil-Patel-8201&repo=uni_fit&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-
+  
 </div>
   
   <br /><br /><br /><br /><br /><br /><br />
