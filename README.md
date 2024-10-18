@@ -2,10 +2,11 @@
 
 Strong in design and integration with intuitive problem-solving skills. Proficient in React.js, Node.js, MySql, MongoDB, FLUTTER, REACT NATIVE, PYTHON, HTML, JAVASCRIPT, FIREBASE, and REST API calls. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
 
-* I'm based in Toronto, Canada.
-* My Portfolio link: [portfolio](https://harshil8201.github.io/portfolio/)
-* Check out my new challenge [30 Days with React.js](https://github.com/harshil8201/30-Days-with-React.js)
-* You can contact me at [harshilpatel33h@gmail.com](mailto:harshilpatel33h@gmail.com)
+* 📍 I'm based in Toronto, Canada.
+* 🔗 My Portfolio link: [portfolio](https://harshil8201.github.io/portfolio/)
+* 🔥 Check out my new challenge [30 Days with React.js](https://github.com/harshil8201/30-Days-with-React.js)
+* 💻 My LeetCode Profile [Solved 150+ DSA Questions](https://leetcode.com/u/harshil8201/)
+* 📧 You can contact me at [harshilpatel33h@gmail.com](mailto:harshilpatel33h@gmail.com)
 
 ### Skills
 
