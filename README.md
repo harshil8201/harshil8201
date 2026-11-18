@@ -1,56 +1,36 @@
-# Full Stack Software Developer
+## Hi, I'm Harshil 👋
 
-Strong in design and integration with intuitive problem-solving skills. Proficient in React.js, Node.js, MySql, MongoDB, FLUTTER, REACT NATIVE, PYTHON, HTML, JAVASCRIPT, FIREBASE, and REST API calls. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
+Full stack developer in **Guelph, Ontario**. I build web and mobile apps with **TypeScript, React, Next.js, Node.js and Python**, and I like owning a feature from idea to production.
 
-* 📍 I'm based in Toronto, Canada.
-* 🔗 My Portfolio link: [portfolio](https://harshil8201.github.io/portfolio/)
-* 🔥 Check out my new challenge [30 Days with React.js](https://github.com/harshil8201/30-Days-with-React.js)
-* 💻 My LeetCode Profile [Solved 150+ DSA Questions](https://leetcode.com/u/harshil8201/)
-* 📧 You can contact me at [harshilpatel33h@gmail.com](mailto:harshilpatel33h@gmail.com)
+### 🚀 Now building: [Crevion](https://www.crevion.com)
 
-### Skills
+An AI design platform that turns one sentence into a finished, editable marketing poster for small businesses.
 
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-</p>
+- Three production apps (customer app, creator marketplace, admin panel) on Next.js, React and TypeScript
+- In-browser design editor built on Fabric.js
+- AI layout pipeline with schema validation, automatic repair and fallbacks, plus a fine-tuned open-source model
+- Stripe subscriptions and creator payouts, Clerk sign-in, AWS S3 and CloudFront, Supabase (PostgreSQL)
+- 29 Jest test suites, Playwright browser tests, preview builds and numbered database migrations
 
+The code is private. See **[crevion-showcase](https://github.com/harshil8201/crevion-showcase)** for the architecture and stack.
 
-### Socials
+### 🛠️ Tech
 
-<p align="left"> <a href="https://www.github.com/harshil8201" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/harshil_8201/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/harshil-patel-312186210" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+| Area | Tools |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, Java, SQL, Dart |
+| Frontend | React, Next.js, React Native, Flutter, Tailwind CSS |
+| Backend | Node.js, Express, REST APIs, GraphQL, Supabase, Firebase |
+| Data | PostgreSQL, MySQL, MongoDB, Redis, Pinecone |
+| Cloud and tools | AWS (Lambda, S3, CloudFront), Vercel, Docker, Git, Jest, Playwright, Sentry |
 
-### Badges
+### 💼 Experience
 
-<b>My GitHub Stats</b>
+- **Full Stack Developer**, Crevion (own product) · 2026 to now
+- **Full Stack Developer**, Suven Consultants and Technology · Mumbai · 2022 to 2023
+- **Software Developer**, OyeBusy Technologies · Pune · 2022
+- **Postgraduate Diploma, Full Stack Software Development**, Lambton College, Toronto
 
-<a href="http://www.github.com/harshil8201"><img src="https://github-readme-stats.vercel.app/api?username=harshil8201&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="harshil8201's GitHub stats" /></a>
+### 📫 Contact
 
-<a href="http://www.github.com/harshil8201"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshil8201&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/harshil8201" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil8201&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center">
-  
-  <a href="https://github.com/harshil8201/30-Days-with-React.js" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshil8201&repo=30-Days-with-React.js&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  
-  <a href="https://github.com/harshil8201/uni_fit" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshil8201&repo=uni_fit&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  
-</div>
-  
-  <br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
-<img src="https://github.com/user-attachments/assets/138e0670-f07e-4845-9975-32bffbf812d6" width="17%" height="17%" alt="harshil8201's GitHub stats">
-
-
-
+[Portfolio](https://harshil8201.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/harshil8201/) · [harshilpatel33h@gmail.com](mailto:harshilpatel33h@gmail.com)
